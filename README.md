@@ -12,3 +12,5 @@ To use this batch :
 4. Edit "targetico" with your icon file name
 
 5. Edit "shortcutname" with your desired shortcut name
+
+Save and then run. Run as admin if necessary. 

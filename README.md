@@ -1,7 +1,9 @@
 # Batch-Copy-Shortcut
 Small batch file use to copy portable program exe and creating shortcut plus icon on dekstop
 
-Required : .Net 4.0 Framework
+Required : 
+- .Net 4.0 Framework
+- Windows Vista and newer
 
 To use this batch :
 

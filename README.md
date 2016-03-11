@@ -9,7 +9,7 @@ To use this batch :
 
 2. Open CopyAndShortcut.bat in text editor
 
-3. Edit "targetdir" with your target copy directory
+3. Edit "targetdir" with the target directory you want to paste.
 
 4. Edit "targetexe" with your exe or file you want to shortcut after
 
@@ -17,4 +17,4 @@ To use this batch :
 
 6. Edit "shortcutname" with your desired shortcut name
 
-Save and then run. Run as admin if necessary. 
+Save and then you're all set, you can run this anywhere. Run the batch to start. Run as admin if necessary. 
